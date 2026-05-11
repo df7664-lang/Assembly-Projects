@@ -14,6 +14,6 @@ This repository contains a professional implementation of a **Two-Pass Assembler
    ```bash
    make
 
-./assembler file1.as
+./assembler file1 file2
 =
 =
